@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3for300bot", "ConsoleApp3for300bot\ConsoleApp3for300bot.csproj", "{DE455D77-17D0-490A-9D48-A443F6BA80A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE455D77-17D0-490A-9D48-A443F6BA80A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE455D77-17D0-490A-9D48-A443F6BA80A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE455D77-17D0-490A-9D48-A443F6BA80A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE455D77-17D0-490A-9D48-A443F6BA80A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

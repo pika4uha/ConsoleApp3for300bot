@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "KwTJIzVHpG4OAY2QdWUPjjfKyaxFTrz1AOS+spyLPvPDqhI21YYNoObZ4wPbNpiZ6XzMyADKpdPzHfb8euuytw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\konst\\RiderProjects\\ConsoleApp3for300bot\\ConsoleApp3for300bot\\ConsoleApp3for300bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-preview.6.22329.4\\microsoft.entityframeworkcore.7.0.0-preview.6.22329.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-preview.6.22329.4\\microsoft.entityframeworkcore.abstractions.7.0.0-preview.6.22329.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-preview.6.22329.4\\microsoft.entityframeworkcore.analyzers.7.0.0-preview.6.22329.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.0-preview.6.22329.4\\microsoft.entityframeworkcore.relational.7.0.0-preview.6.22329.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.6.22324.4\\microsoft.extensions.caching.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.6.22324.4\\microsoft.extensions.caching.memory.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0-preview.6.22324.4\\microsoft.extensions.configuration.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-preview.6.22324.4\\microsoft.extensions.dependencyinjection.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.6.22324.4\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-preview.6.22324.4\\microsoft.extensions.logging.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.6.22324.4\\microsoft.extensions.logging.abstractions.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.6.22324.4\\microsoft.extensions.options.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.6.22324.4\\microsoft.extensions.primitives.7.0.0-preview.6.22324.4.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\npgsql\\7.0.0-preview.6\\npgsql.7.0.0-preview.6.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.0-preview.6\\npgsql.entityframeworkcore.postgresql.7.0.0-preview.6.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
